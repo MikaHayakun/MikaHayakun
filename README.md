@@ -48,6 +48,8 @@ O Mikawei oferece perguntas para ajudar você a olhar com mais calma para o que 
 
 Para quem gosta de ler sem pressa, parar numa frase e continuar pensando nela depois.
 
+Histórias reais que vão impactar a sua vida. A cada nova leitura, algo muda em você — e você nunca mais será a mesma pessoa.
+
 Uma Página de Cada Vez reúne três histórias para ler pelo navegador. Você escolhe por onde começar e segue no seu ritmo.
 
 Visite o site, conheça a apresentação do acervo e escolha sua primeira leitura.
