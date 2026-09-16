@@ -44,7 +44,9 @@ O Mikawei oferece perguntas para ajudar você a olhar com mais calma para o que 
 
 ---
 
-## Uma Página de Cada Vez — Escolha uma história. Reserve um tempo seu.
+## Uma Página de Cada Vez
+
+**Escolha uma imagem que faz sentido para você. Ela carrega uma história que vai tocar a sua alma…**
 
 Para quem gosta de ler sem pressa, parar numa frase e continuar pensando nela depois.
 
