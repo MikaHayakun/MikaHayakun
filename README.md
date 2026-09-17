@@ -46,7 +46,7 @@ O Mikawei oferece perguntas para ajudar você a olhar com mais calma para o que 
 
 ## Uma Página de Cada Vez
 
-**Escolha uma imagem que faz sentido para você. Ela carrega uma história que vai tocar a sua alma…**
+**Trechos da vida real que vão te ajudar a encontrar um novo sentido para sua trajetória. Um caminho sem volta; e de repente algo muda em você! Leia uma página de cada vez. Você escolhe por onde começar e segue no seu ritmo.**
 
 Para quem gosta de ler sem pressa, parar numa frase e continuar pensando nela depois.
 
