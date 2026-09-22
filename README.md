@@ -34,9 +34,9 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 
 ## Mikawei — Um tempo para se ouvir
 
-Tem dias em que alguma coisa incomoda, mas é difícil explicar o quê. Talvez você queira falar e nem saiba por onde começar.
+Tem dias em que alguma coisa incomoda, mas é difícil explicar. Talvez você queira falar e nem saiba por onde começar.
 
-O Mikawei oferece perguntas para ajudar você a olhar com mais calma para o que está sentindo e colocar em palavras o que anda confuso. Você pode começar sem ter tudo explicado.
+O Mikawei apresenta perguntas para conduzir você a olhar com mais calma para o que está sentindo e organizar em palavras o que anda confuso. Você pode começar sem ter tudo explicado.
 
 É um espaço de reflexão e autoescuta; não substitui acompanhamento profissional.
 
