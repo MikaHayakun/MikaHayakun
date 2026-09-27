@@ -40,7 +40,7 @@ Tem dias em que alguma coisa incomoda, mas é difícil explicar. Talvez você qu
 
 O Mikawei apresenta perguntas para conduzir você a olhar com mais calma para o que está sentindo e organizar em palavras o que anda confuso. Você pode começar sem ter tudo explicado.
 
-É um espaço de reflexão e autoescuta; não substitui acompanhamento profissional.
+É um espaço de apoio, reflexão e autoescuta; não substitui acompanhamento profissional.
 
 **[Quero conhecer o Mikawei →](https://mika-wei-by-legacy-ai.vercel.app)**
 
