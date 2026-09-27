@@ -34,7 +34,7 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 
 ---
 
-## WEi by Legacy AI·Um tempo para se ouvir
+## WEi by Legacy AI · Um tempo para se ouvir
 
 Tem dias em que alguma coisa incomoda, mas é difícil explicar. Talvez você queira falar e nem saiba por onde começar.
 
