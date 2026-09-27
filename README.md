@@ -10,7 +10,7 @@ Um jogo educativo independente para estudar **Análise e Desenvolvimento de Sist
 
 ### Jogue e participe
 
-**[▶ Jogar agora](https://enade-ads-2026.vercel.app/?v=d1a6f78)** · **[💡 Enviar sugestão](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=sugestao.md)** · **[🐛 Relatar problema](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=problema.md)**
+**[▶ Jogar agora](https://enade-ads-2026.vercel.app/?v=d1a6f78)** · **[ Enviar sugestão](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=sugestao.md)** · **[ Relatar problema](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=problema.md)**
 
 Atualizado em **22/09/2026** com as questões oficiais do ENADE, imagens revisadas e integração ao jogo.
 
