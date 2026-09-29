@@ -58,4 +58,4 @@ Visite o site, conheça a apresentação do acervo e escolha sua primeira leitur
 
 **[Conhecer as histórias →](https://uma-pagina-de-cada-vez.vercel.app)**
 
-*O acesso às três histórias é liberado por pagamento único, conforme as condições apresentadas no site.*
+*O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
