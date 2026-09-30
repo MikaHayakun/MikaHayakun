@@ -18,7 +18,7 @@ Reconstrua uma cidade digital enquanto pratica lógica, estatística, arquitetur
 
 - Comece em **Iniciar missão 1**.
 - Acerte pelo menos **4 de 5 desafios** para liberar a próxima missão.
-- Escolha entre os modos **leve** e **3D**.
+- Escolha entre os modos **leve**  e **3D**.
 
 ### Contribua com materiais de estudo
 
