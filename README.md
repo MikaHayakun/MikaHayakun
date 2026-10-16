@@ -1,6 +1,6 @@
 # Meus projetos
 
-[ENADE ADS · 2026](https://enade-ads-2026.vercel.app/?v=d1a6f78) · [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://uma-pagina-de-cada-vez.vercel.app)
+[ENADE ADS · 2026](https://enade-ads-2026-previa-abertura.mikahliz.chatgpt.site) · [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://uma-pagina-de-cada-vez.vercel.app)
 
 ---
 
@@ -10,7 +10,7 @@ Um jogo educativo independente para estudar **Análise e Desenvolvimento de Sist
 
 ### Jogue e participe
 
-**[▶ Jogar agora](https://enade-ads-2026.vercel.app/?v=d1a6f78)** · **[ Enviar sugestão](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=sugestao.md)** · **[ Relatar problema](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=problema.md)**
+**[▶ Jogar agora](https://enade-ads-2026-previa-abertura.mikahliz.chatgpt.site)** · **[ Enviar sugestão](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=sugestao.md)** · **[ Relatar problema](https://github.com/MikaHayakun/MikaHayakun/issues/new?template=problema.md)**
 
 Atualizado em **22/09/2026** com as questões oficiais do ENADE, imagens revisadas e integração ao jogo.
 
@@ -22,7 +22,7 @@ Reconstrua uma cidade digital enquanto pratica lógica, estatística, arquitetur
 
 ### Contribua com materiais de estudo
 
-No [jogo](https://enade-ads-2026.vercel.app/?v=d1a6f78), escolha **Adicionar material** e envie PDF, Word (.docx), Excel (.xlsx) ou TXT, com até **4 MB por arquivo**.
+No [jogo](https://enade-ads-2026-previa-abertura.mikahliz.chatgpt.site), escolha **Adicionar material** e envie PDF, Word (.docx), Excel (.xlsx) ou TXT, com até **4 MB por arquivo**.
 
 As contribuições passam a integrar o **acervo compartilhado e privado do projeto**, que a IA utiliza para preparar novos desafios para os jogadores. Os documentos não ficam disponíveis para consulta ou download público. Envie somente materiais que você tenha autorização para compartilhar com o projeto.
 
