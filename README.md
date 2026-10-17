@@ -20,6 +20,10 @@ Reconstrua uma cidade digital enquanto pratica lógica, estatística, arquitetur
 - Acerte pelo menos **4 de 5 desafios** para liberar a próxima missão.
 - Escolha entre os modos **leve**  e **3D**.
 
+### Código público da abertura
+
+O [repositório da abertura](https://github.com/MikaHayakun/Abertura.ENADE.ADS-2026) inclui o player, o vídeo e a renderização 3D. Faça um fork, [envie sugestões](https://github.com/MikaHayakun/Abertura.ENADE.ADS-2026/issues) ou contribua com um pull request. O código da abertura está sob licença MIT; o código do jogo permanece privado.
+
 ### Contribua com materiais de estudo
 
 No [jogo](https://enade-ads-2026-abertura.vercel.app), escolha **Adicionar material** e envie PDF, Word (.docx), Excel (.xlsx) ou TXT, com até **4 MB por arquivo**.
