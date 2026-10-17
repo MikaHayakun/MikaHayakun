@@ -1,6 +1,6 @@
 # Meus projetos
 
-[ENADE ADS · 2026](https://enade-ads-2026-abertura.vercel.app) · [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://uma-pagina-de-cada-vez.vercel.app)
+[ENADE ADS · 2026](https://enade-ads-2026-abertura.vercel.app) · [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://abertura-video-updcv.vercel.app/)
 
 ---
 
@@ -60,6 +60,6 @@ Uma Página de Cada Vez reúne três histórias. Você escolhe por onde começar
 
 Visite o site, conheça a apresentação do acervo e escolha sua primeira leitura.
 
-**[Conhecer as histórias →](https://uma-pagina-de-cada-vez.vercel.app)**
+**[Conhecer as histórias →](https://abertura-video-updcv.vercel.app/)**
 
 *O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
