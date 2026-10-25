@@ -70,15 +70,11 @@ Visite o site, conheça a apresentação do acervo e escolha sua primeira leitur
 
 Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimento para Instituições Públicas e Privadas de Saúde
 
-A demo representa a **Demonstração em unidade fictícia**, sem vínculo com uma instituição real.
+A demo representa a **Demonstração em unidade fictícia**, com dados fictícios e testa a ferramenta em modo on-line e offline, sem vínculo com uma instituição real.
 
-A demonstração em dados fictícios testa a ferramenta em modo on-line e offline.
+**Justificativa criação do projeto** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana deve forçar uma reorganização estrutural nas empresas.
 
-**Justificativa criação do projeto** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o 
-
-encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana 
-
-deve forçar uma reorganização estrutural nas empresas. **Há uma tendência de aceleração na automação de processos cotidianos.**
+**Há uma tendência de aceleração na automação de processos cotidianos.**
 
 # Licença e autoria do TOTEM
 
@@ -90,6 +86,5 @@ O código-fonte deste repositório é privado. A demonstração e a página de a
 
 O valor é único e simbólico   💙   Você também pode testar a ferramenta   🤝   [Consultar a página de apoio ao projeto e sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
-- [Testar a demonstração com dados fictícios](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site)
 
 Projetos idealizados por      <a href="https://github.com/MikaHayakun"><img src="https://cdn.simpleicons.org/github/9BE7FF" width="18" height="18" alt="GitHub"> MikaHayakun</a>
