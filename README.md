@@ -78,6 +78,8 @@ A demo representa a **Demonstração em unidade fictícia**, com dados fictício
 
 **Há uma tendência de aceleração na automação de processos cotidianos.**
 
+**Esta ferramenta libera profissionais de tarefas reiteradas para atividades humanizadas que exigem acolhimento e atuação técnica**
+
 # Licença e autoria do TOTEM
 
 **IMPORTANTE**  [📄 Consultar a licença do TOTEM](https://www.apache.org/licenses/LICENSE-2.0) 
