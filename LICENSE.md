@@ -9,4 +9,4 @@ O código-fonte deste repositório é privado. A demonstração e a página de a
 
 O valor é único e simbólico - [Consultar a página de apoio ao projeto](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
-Os usos autorizados estão descritos aqui  • [Consultar os termos da licença do TOTEM](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+Os usos autorizados estão descritos aqui  • [Consultar os termos da licença do TOTEM](https://www.apache.org/licenses/LICENSE-2.0)
