@@ -50,18 +50,35 @@ O Mikawei apresenta perguntas para conduzir você a olhar com mais calma para o 
 
 ---
 
-## Uma Página de Cada Vez
+## Uma Página de Cada Vez...
 
 **Escolha uma imagem que faça sentido para você. Ela carrega uma história que vai tocar a sua alma…**
 
+Trechos da vida real que vão te ajudar a encontrar um novo sentido para sua trajetória. Um caminho sem volta...e de repente, algo muda em você! 
+
+Uma Página de Cada Vez reúne três histórias. Você escolhe por onde começar e segue no seu ritmo.
+
+Visite o site, conheça a apresentação do acervo e escolha sua primeira leitura.
+
+**[Conhecer as histórias →](https://abertura-video-updcv.vercel.app/)**
+
+*O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
+
+---
+
 # TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional    
-
-**Instituição de saúde pública ou privada.** A demo representa a **Demonstração — unidade fictícia**, sem vínculo com uma instituição real.
-
 
 Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimento para Instituições Públicas e Privadas de Saúde
 
-A demonstração em dados fictícios testa parte da ferramenta.
+A demo representa a **Demonstração em unidade fictícia**, sem vínculo com uma instituição real.
+
+A demonstração em dados fictícios testa a ferramenta em modo on-line e offline.
+
+**Justificativa criação do projeto** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o 
+
+encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana 
+
+deve forçar uma reorganização estrutural nas empresas. **Há uma tendência de aceleração na automação de processos cotidianos.**
 
 # Licença e autoria do TOTEM
 
@@ -73,15 +90,6 @@ O código-fonte deste repositório é privado. A demonstração e a página de a
 
 O valor é único e simbólico   💙   Você também pode testar a ferramenta   🤝   [Consultar a página de apoio ao projeto e sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
-
 - [Testar a demonstração com dados fictícios](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site)
 
-Trechos da vida real que vão te ajudar a encontrar um novo sentido para sua trajetória. Um caminho sem volta...e de repente, algo muda em você! 
-
-Uma Página de Cada Vez reúne três histórias. Você escolhe por onde começar e segue no seu ritmo.
-
-Visite o site, conheça a apresentação do acervo e escolha sua primeira leitura.
-
-**[Conhecer as histórias →](https://abertura-video-updcv.vercel.app/)**
-
-*O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
+Projetos idealizados por      <a href="https://github.com/MikaHayakun"><img src="https://cdn.simpleicons.org/github/9BE7FF" width="18" height="18" alt="GitHub"> MikaHayakun</a>
