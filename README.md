@@ -54,6 +54,28 @@ O Mikawei apresenta perguntas para conduzir você a olhar com mais calma para o 
 
 **Escolha uma imagem que faça sentido para você. Ela carrega uma história que vai tocar a sua alma…**
 
+# TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional    
+
+**Instituição de saúde pública ou privada.** A demo representa a **Demonstração — unidade fictícia**, sem vínculo com uma instituição real.
+
+
+Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimento para Instituições Públicas e Privadas de Saúde
+
+A demonstração em dados fictícios testa parte da ferramenta.
+
+# Licença e autoria do TOTEM
+
+**IMPORTANTE**  [📄 Consultar a licença do TOTEM](LICENSE.md) 
+
+O código-fonte deste repositório é privado. A demonstração e a página de apoio são públicas, em hospedagem separada.
+
+**Seja Instrumento de Criação, um patrocinador e um apoiador de projetos como este, voltados para melhorar a vida das pessoas.**
+
+O valor é único e simbólico   💙   Você também pode testar a ferramenta   🤝   [Consultar a página de apoio ao projeto e sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
+
+
+- [Testar a demonstração com dados fictícios](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site)
+
 Trechos da vida real que vão te ajudar a encontrar um novo sentido para sua trajetória. Um caminho sem volta...e de repente, algo muda em você! 
 
 Uma Página de Cada Vez reúne três histórias. Você escolhe por onde começar e segue no seu ritmo.
