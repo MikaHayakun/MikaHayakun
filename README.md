@@ -73,6 +73,7 @@ Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimen
 A demo representa a **Demonstração em unidade fictícia**, com dados fictícios e testa a ferramenta em modo on-line e offline, sem vínculo com uma instituição real.
 
 **Por que este projeto foi criado** A falta de profissionais e a consequente sobrecarga de trabalho nas instituições públicas de saúde formam um dos nós mais complexos e urgentes da gestão pública atual. Esse cenário gera um efeito dominó que afeta desde a saúde mental do trabalhador até a segurança do paciente. 
+
 **Cenário atual nas Instituições de saúde privada** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana deve forçar uma reorganização estrutural nas empresas.
 
 **Há uma tendência de aceleração na automação de processos cotidianos.**
