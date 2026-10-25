@@ -88,7 +88,7 @@ A demo representa a **Demonstração em unidade fictícia**, com dados fictício
 
 O código-fonte deste repositório é privado. A demonstração e a página de apoio são públicas, em hospedagem separada.
 
-**Seja Instrumento de Criação, um patrocinador e um apoiador de projetos como este, voltados para melhorar a vida das pessoas.**
+**Seja Instrumento de Criação, um  https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors um patrocinador de projetos como este, voltados para melhorar a vida das pessoas.**
 
 Você pode testar a ferramenta  ⚙️  O valor de apoio é único e simbólico   💙   e dará acesso ao projeto na íntegra   🤝   [Eu apoio! Ir para a página de apoio ao projeto e Testar sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
