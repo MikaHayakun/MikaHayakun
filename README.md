@@ -78,7 +78,7 @@ A demo representa a **Demonstração em unidade fictícia**, com dados fictício
 
 # Licença e autoria do TOTEM
 
-**IMPORTANTE**  [📄 Consultar a licença do TOTEM](https://github.com/MikaHayakun/MikaHayakun/blob/main/LICENSE.md) 
+**IMPORTANTE**  [📄 Consultar a licença do TOTEM](https://www.apache.org/licenses/LICENSE-2.0) 
 
 O código-fonte deste repositório é privado. A demonstração e a página de apoio são públicas, em hospedagem separada.
 
