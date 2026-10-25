@@ -80,7 +80,7 @@ A demo representa a **Demonstração em unidade fictícia**, com dados fictício
 
 **Esta ferramenta libera profissionais de tarefas reiteradas para atividades humanizadas que exigem acolhimento e atuação técnica**
 
-**Plano de contingência** Em instituições públicas de saúde, a queda da internet não pode interromper o serviço assistencial. Para garantir a continuidade do serviço, a unidade deve ativar imediatamente o seu Plano de Contingência para Falha de Rede, migrando a operação para o modo offline e manual. Diante do contexto apresentado e para evitar o retrocesso, o TOTEM permite a manutenção do fluxo de atendimento ao público e assegura de que dados não sejam perdidos.
+**Plano de contingência** Em instituições públicas de saúde, a queda da internet não pode interromper o trabalho assistencial. Para garantir a continuidade do serviço, a unidade deve ativar imediatamente o seu Plano de Contingência para Falha de Rede, migrando a operação para o modo offline e manual. Diante do contexto apresentado e para evitar o retrocesso, o TOTEM permite a manutenção do fluxo de atendimento ao público e assegura de que dados não sejam perdidos.
 
 # Licença e autoria do TOTEM
 
