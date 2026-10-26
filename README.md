@@ -65,7 +65,7 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 **As sugestões são públicas.** Não anexe documentos particulares, senhas ou chaves de acesso nas issues. Para contribuir com material de estudo, use exclusivamente o envio dentro do jogo.
 
 
-Você pode ser um apoiador ou patrocinador deste projeto   💙  O valor de apoio é único e simbólico   🤝   Contribuitor  💙  Quero ser [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)
+Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors) deste projeto  💙  Quero ser [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)
 
 ---
 
