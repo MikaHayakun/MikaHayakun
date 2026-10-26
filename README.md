@@ -67,7 +67,7 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 
 Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors) deste projeto  💙
 
-**[💙 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-enade.html)**
+**[💚 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-enade.html)**
 
 ---
 
@@ -83,7 +83,7 @@ O Mikawei apresenta perguntas para conduzir você a olhar com mais calma para o 
 
 Torne-se [Contribuitor](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-wei.html) deste projeto 💙
 
-**[💙 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-wei.html)**
+**[🩷 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-wei.html)**
 
 ---
 
@@ -103,7 +103,7 @@ Visite o site, conheça a apresentação do acervo e escolha sua primeira leitur
 
 Torne-se [Contribuitor](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-updcv.html) deste projeto 💙
 
-**[💙 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-updcv.html)**
+**[❤️ Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-updcv.html)**
 
 ---
 
