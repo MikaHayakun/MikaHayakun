@@ -101,6 +101,10 @@ Visite o site, conheça a apresentação do acervo e escolha sua primeira leitur
 
 *O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
 
+Torne-se [Contribuitor](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-updcv.html) deste projeto 💙
+
+**[💙 Quero ser Contribuitor e ter acesso ao projeto na íntegra](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/apoio-updcv.html)**
+
 ---
 
 Projetos idealizados por      <a href="https://github.com/MikaHayakun"><img src="https://cdn.simpleicons.org/github/9BE7FF" width="18" height="18" alt="GitHub"> MikaHayakun</a>
