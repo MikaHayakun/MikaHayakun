@@ -65,7 +65,30 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 **As sugestões são públicas.** Não anexe documentos particulares, senhas ou chaves de acesso nas issues. Para contribuir com material de estudo, use exclusivamente o envio dentro do jogo.
 
 
-Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors) deste projeto  💙  Quero ser [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)
+Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors) deste projeto  💙
+
+<details>
+<summary><img src="assets/botao-contribuitor-enade.svg" width="600" alt="Quero ser Contribuitor e ter acesso ao projeto na íntegra"></summary>
+
+Pague pelo Pix e envie o comprovante com seu usuário do GitHub para receber o convite.
+
+**Projeto: ENADE ADS · 2026** · **Apoio único: R$ 18,99**
+
+1. Copie o código Pix abaixo pelo ícone de cópia do GitHub.
+2. No aplicativo do seu banco, escolha **Pix Copia e Cola**, cole o código e conclua o pagamento.
+3. Envie o comprovante pelo link abaixo, junto com seu usuário do GitHub e o nome **ENADE ADS · 2026**.
+
+```text
+00020101021226710014BR.GOV.BCB.PIX0123olivsilva.z@outlook.com0222Pagamento mzorg-doando520400005303986540518.995802BR5924MIKAH LIZ OLIVEIRA SILVA6008BRASILIA62290525QRCCqJ9xl9x5yIYVEy1PP7EJt63046D2F
+```
+
+**Não conseguiu copiar?** Selecione e copie todo o código acima manualmente.
+
+**[Clique aqui para enviar o comprovante](https://t.me/MikaHayakun)**
+
+Após a conferência do pagamento, você receberá no GitHub o convite para acessar o projeto ENADE ADS · 2026 na íntegra. Aceite o convite para liberar o acesso.
+
+</details>
 
 ---
 
