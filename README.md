@@ -68,7 +68,7 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors) deste projeto  💙
 
 <details>
-<summary><img src="assets/botao-contribuitor-enade.svg" width="600" alt="Quero ser Contribuitor e ter acesso ao projeto na íntegra"></summary>
+<summary><a><img src="assets/botao-contribuitor-enade.svg" width="600" alt="Quero ser Contribuitor e ter acesso ao projeto na íntegra"></a></summary>
 
 Pague pelo Pix e envie o comprovante com seu usuário do GitHub para receber o convite.
 
