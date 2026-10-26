@@ -1,6 +1,34 @@
 # Meus projetos
 
-[ENADE ADS · 2026](https://enade-ads-2026-abertura.vercel.app) · [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://abertura-video-updcv.vercel.app/) · [TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site)
+[TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site) · [ENADE ADS · 2026](https://enade-ads-2026-abertura.vercel.app) ·  [Mikawei](https://mika-wei-by-legacy-ai.vercel.app) · [Uma Página de Cada Vez](https://abertura-video-updcv.vercel.app/) · 
+
+---
+
+# TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional    
+
+Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimento para Instituições Públicas e Privadas de Saúde
+
+A demo representa a **Demonstração em unidade fictícia**, com dados fictícios e testa a ferramenta em modo on-line e offline, sem vínculo com uma instituição real.
+
+**Por que este projeto foi criado?** A falta de profissionais e a consequente sobrecarga de trabalho nas instituições públicas de saúde formam um dos nós mais complexos e urgentes da gestão pública atual. Esse cenário gera um efeito dominó que afeta desde a saúde mental do trabalhador até a segurança do paciente. 
+
+**Cenário atual das Instituições de saúde privada** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana deve forçar uma reorganização estrutural nas empresas.
+
+**Há uma tendência de aceleração na automação de processos cotidianos.**
+
+**Esta ferramenta libera profissionais de tarefas reiteradas para atividades humanizadas que exigem acolhimento e atuação técnica.**
+
+**Plano de contingência** Em instituições públicas de saúde, a queda da internet não pode interromper o trabalho assistencial. Para garantir a continuidade do serviço, a unidade deve ativar imediatamente o seu Plano de Contingência para Falha de Rede, migrando a operação para o modo manual. Diante do contexto apresentado e para evitar o retrocesso, o **TOTEM em modo offline** permite a manutenção do fluxo de atendimento ao público e assegura de que dados não sejam perdidos, até a reestabilização da rede.
+
+# Licença e autoria do TOTEM
+
+**IMPORTANTE**  [📄 Consultar a licença do TOTEM](https://www.apache.org/licenses/LICENSE-2.0) 
+
+O código-fonte deste repositório é privado. A demonstração e a página de apoio são públicas, em hospedagem separada.
+
+**Seja Instrumento de Criação, um patrocinador de projetos como este, voltados para melhorar a vida das pessoas. Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)**
+
+Você pode testar a ferramenta  ⚙️  O valor de apoio é único e simbólico   💙   e dará acesso ao projeto na íntegra   🤝   [Quero ser Contribuitor!  ➡️ Ir para a página de apoio ao projeto e Testar sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
 ---
 
@@ -38,6 +66,8 @@ Use os links acima para propor melhorias, comentar a experiência ou relatar dif
 
 ---
 
+Você pode ser um apoiador ou patrocinador deste projeto  ⚙️  O valor de apoio é único e simbólico   🤝  você será Contribuitor  💙  Quero ser [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)
+
 ## WEi by Legacy AI · Um tempo para se ouvir
 
 Tem dias em que alguma coisa incomoda, mas é difícil explicar. Talvez você queira falar e nem saiba por onde começar.
@@ -65,32 +95,5 @@ Visite o site, conheça a apresentação do acervo e escolha sua primeira leitur
 *O acesso às três histórias é liberado, conforme as condições apresentadas no site.*
 
 ---
-
-# TOTEM - Terminal de Orientação e Triagem Eletrônica Multifuncional    
-
-Automação de Interoperabilidade e Integração entre Sistemas de Autoatendimento para Instituições Públicas e Privadas de Saúde
-
-A demo representa a **Demonstração em unidade fictícia**, com dados fictícios e testa a ferramenta em modo on-line e offline, sem vínculo com uma instituição real.
-
-**Por que este projeto foi criado?** A falta de profissionais e a consequente sobrecarga de trabalho nas instituições públicas de saúde formam um dos nós mais complexos e urgentes da gestão pública atual. Esse cenário gera um efeito dominó que afeta desde a saúde mental do trabalhador até a segurança do paciente. 
-
-**Cenário atual das Instituições de saúde privada** O Senado Federal aprovou a PEC que acaba com a escala 6x1 no Brasil. A principal consequência imediata é o encarecimento do custo da hora trabalhada, na prática redução de pessoal e sobrecarga de trabalho. A escassez de horas de mão de obra humana deve forçar uma reorganização estrutural nas empresas.
-
-**Há uma tendência de aceleração na automação de processos cotidianos.**
-
-**Esta ferramenta libera profissionais de tarefas reiteradas para atividades humanizadas que exigem acolhimento e atuação técnica.**
-
-**Plano de contingência** Em instituições públicas de saúde, a queda da internet não pode interromper o trabalho assistencial. Para garantir a continuidade do serviço, a unidade deve ativar imediatamente o seu Plano de Contingência para Falha de Rede, migrando a operação para o modo manual. Diante do contexto apresentado e para evitar o retrocesso, o **TOTEM em modo offline** permite a manutenção do fluxo de atendimento ao público e assegura de que dados não sejam perdidos, até a reestabilização da rede.
-
-# Licença e autoria do TOTEM
-
-**IMPORTANTE**  [📄 Consultar a licença do TOTEM](https://www.apache.org/licenses/LICENSE-2.0) 
-
-O código-fonte deste repositório é privado. A demonstração e a página de apoio são públicas, em hospedagem separada.
-
-**Seja Instrumento de Criação, um patrocinador de projetos como este, voltados para melhorar a vida das pessoas. Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)**
-
-Você pode testar a ferramenta  ⚙️  O valor de apoio é único e simbólico   💙   e dará acesso ao projeto na íntegra   🤝   [Quero ser Contribuitor!  ➡️ Ir para a página de apoio ao projeto e Testar sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
-
 
 Projetos idealizados por      <a href="https://github.com/MikaHayakun"><img src="https://cdn.simpleicons.org/github/9BE7FF" width="18" height="18" alt="GitHub"> MikaHayakun</a>
