@@ -90,7 +90,7 @@ O código-fonte deste repositório é privado. A demonstração e a página de a
 
 **Seja Instrumento de Criação, um patrocinador de projetos como este, voltados para melhorar a vida das pessoas. Torne-se [Contribuitor](https://github.com/MikaHayakun/totem-instituicao-saude/graphs/contributors)**
 
-Você pode testar a ferramenta  ⚙️  O valor de apoio é único e simbólico   💙   e dará acesso ao projeto na íntegra   🤝   [Quero ser Contribuitor! Ir para a página de apoio ao projeto e Testar sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
+Você pode testar a ferramenta  ⚙️  O valor de apoio é único e simbólico   💙   e dará acesso ao projeto na íntegra   🤝   [Quero ser Contribuitor!  ➡️ Ir para a página de apoio ao projeto e Testar sua usabilidade na prática](https://totem-instituicao-saude-demonstracao.mikahliz.chatgpt.site/pagamento.html)
 
 
 Projetos idealizados por      <a href="https://github.com/MikaHayakun"><img src="https://cdn.simpleicons.org/github/9BE7FF" width="18" height="18" alt="GitHub"> MikaHayakun</a>
